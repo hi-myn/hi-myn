@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Yasmin Gonçalves ^_^
 
 ## About Me
@@ -18,6 +16,7 @@ I'm a dedicated and passionate programming student, continuously seeking to lear
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div><br>
 
 ## Objectives
