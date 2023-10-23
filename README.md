@@ -3,6 +3,7 @@
 ## About Me
 I'm a dedicated and passionate programming student, continuously seeking to learn and grow in technology. My journey began with an interest in web design, and since then, I've been acquiring skills in various technologies.
 
+Knowledge (solid)/studying
 <div style="display: inline_block"><br>
 <!--   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
