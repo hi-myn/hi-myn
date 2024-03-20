@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmin</h1>
 <h3 align="center">Data Enthusiast Embarking on a Journey through Data Engineering, Machine Learning, and Data Analysis</h3>
 
-- 🌱 I’m currently learning **CS50 Computer Science, CS50 IA with Python, CS50 Database with SQL, CS50 Python, Degree in software engineering**
-
 - 📫 How to reach me **souza05yas@gmail.com**
 
 - 👩‍💻 I'm currently looking for my first job opportunity
