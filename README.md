@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmin</h1>
-<h3 align="center">Data Enthusiast Embarking on a Journey through Data Engineering, Machine Learning, and Data Analysis</h3>
+<h3 align="center">Data Enthusiast Embarking on a Journey through Data Science, Machine Learning, and Data Analysis</h3>
 
 - 📫 How to reach me **souza05yas@gmail.com**
 
