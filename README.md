@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmin</h1>
-<h3 align="center">Data Enthusiast Embarking on a Journey through Data Science, Machine Learning, and Data Analysis</h3>
+<h3 align="center">Embarking on a Journey through Softwware Engineer and Machine Learning</h3>
 
 - 📫 How to reach me **yasmin075Souza@hotmail.com**
 
@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/feed/update/urn:li:activity:7143776511366524929/](https://www.linkedin.com/feed/update/urn:li:activity:7143776511366524929/)
 
-- ⚡ Fun fact **I play electronic organ and paint canvas**
+- ⚡ Fun fact **I play electronic organ, paint canvas, make crochet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
