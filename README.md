@@ -5,10 +5,6 @@
 
 - 👩‍💻 I'm currently looking for my first job opportunity
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/update/urn:li:activity:7143776511366524929/](https://www.linkedin.com/feed/update/urn:li:activity:7143776511366524929/)
-
-- ⚡ Fun fact **I play electronic organ, paint canvas, make crochet**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasmin gonçalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmin gonçalves" height="30" width="40" /></a>
