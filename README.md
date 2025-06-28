@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yasmin</h1>
-<h3 align="center">Embarking on a Journey through Softwware Engineer and Machine Learning</h3>
+     /\_/\  
+    ( o.o )   Olá, eu sou Yasmin!
+     > ^ <
 
-- 📫 How to reach me **yasmin075Souza@hotmail.com**
+Sou uma desenvolvedora back-end apaixonada por Machine Learning.  
+Atualmente, estou cursando Engenharia de Software na Uninter e explorando novas tecnologias para resolver problemas do mundo real.
 
-- 👩‍💻 I'm currently looking for my first job opportunity
+### Tech Stack: conhecimentos e em aprendizado:
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yasmin gonçalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmin gonçalves" height="30" width="40" /></a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-myn&hide_progress=true&theme=gruvbox_light )
+<!--layout=donut-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>  </p>
+## 📫 Conecte-se Comigo  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gon%C3%A7alves-yasmin/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-myn&show_icons=true&locale=en&layout=compact" alt="hi-myn" /></p>
+<br>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-myn&show_icons=true&locale=en" alt="hi-myn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-myn&" alt="hi-myn" /></p>-->
+![Retro PC](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
