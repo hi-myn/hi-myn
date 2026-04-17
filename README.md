@@ -28,7 +28,7 @@ Fora do código, sou curiosa, gosto de aprender coisas novas e não tenho medo d
 
 ## 📊 GitHub Stats
 
-![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-myn&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false)
+<!--![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-myn&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-myn&layout=compact&theme=midnight-purple)
 
