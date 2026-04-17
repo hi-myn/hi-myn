@@ -38,5 +38,3 @@ Fora do código, sou curiosa, gosto de aprender coisas novas e não tenho medo d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonçalves-yasmin/)
 
-
-![Retro PC](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
